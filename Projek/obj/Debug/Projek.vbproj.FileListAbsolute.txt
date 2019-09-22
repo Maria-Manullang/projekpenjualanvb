@@ -1,0 +1,16 @@
+D:\Dhuo Creative\VB\Projek\Projek\bin\Debug\Projek.exe
+D:\Dhuo Creative\VB\Projek\Projek\bin\Debug\Projek.pdb
+D:\Dhuo Creative\VB\Projek\Projek\bin\Debug\Projek.xml
+D:\Dhuo Creative\VB\Projek\Projek\bin\Debug\MySql.Data.dll
+D:\Dhuo Creative\VB\Projek\Projek\obj\Debug\ResolveAssemblyReference.cache
+D:\Dhuo Creative\VB\Projek\Projek\obj\Debug\Projek.Barang.resources
+D:\Dhuo Creative\VB\Projek\Projek\obj\Debug\Projek.login.resources
+D:\Dhuo Creative\VB\Projek\Projek\obj\Debug\Projek.menuutama.resources
+D:\Dhuo Creative\VB\Projek\Projek\obj\Debug\Projek.Resources.resources
+D:\Dhuo Creative\VB\Projek\Projek\obj\Debug\Projek.Pelanggan.resources
+D:\Dhuo Creative\VB\Projek\Projek\obj\Debug\Projek.vbproj.GenerateResource.Cache
+D:\Dhuo Creative\VB\Projek\Projek\obj\Debug\Projek.exe
+D:\Dhuo Creative\VB\Projek\Projek\obj\Debug\Projek.xml
+D:\Dhuo Creative\VB\Projek\Projek\obj\Debug\Projek.pdb
+D:\Dhuo Creative\VB\Projek\Projek\obj\Debug\Projek.PETUGAS.resources
+D:\Dhuo Creative\VB\Projek\Projek\obj\Debug\Projek.Penjualan.resources
